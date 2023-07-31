@@ -6,6 +6,7 @@ import Button from '../components/Button/Button';
 import { MutatingDots } from 'react-loader-spinner';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
+
 class App extends Component {
   state = {
     searchName: '',
